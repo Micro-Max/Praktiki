@@ -1,0 +1,14 @@
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.exe
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.deps.json
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.runtimeconfig.json
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.dll
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.pdb
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.dll
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\obj\Debug\net8.0\refint\ConsoleApp6.dll
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.pdb
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp6\obj\Debug\net8.0\ref\ConsoleApp6.dll

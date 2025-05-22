@@ -1,0 +1,17 @@
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.Form1.resources
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.csproj.GenerateResource.cache
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.AssemblyInfoInputs.cache
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.AssemblyInfo.cs
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.sourcelink.json
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\bin\Debug\net8.0-windows\WinFormsApp9.exe
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\bin\Debug\net8.0-windows\WinFormsApp9.deps.json
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\bin\Debug\net8.0-windows\WinFormsApp9.runtimeconfig.json
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\bin\Debug\net8.0-windows\WinFormsApp9.dll
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\bin\Debug\net8.0-windows\WinFormsApp9.pdb
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.dll
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\refint\WinFormsApp9.dll
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.pdb
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\WinFormsApp9.genruntimeconfig.cache
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp9\obj\Debug\net8.0-windows\ref\WinFormsApp9.dll

@@ -1,0 +1,17 @@
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\bin\Debug\net8.0-windows\WinFormsApp5.exe
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\bin\Debug\net8.0-windows\WinFormsApp5.deps.json
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\bin\Debug\net8.0-windows\WinFormsApp5.runtimeconfig.json
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\bin\Debug\net8.0-windows\WinFormsApp5.dll
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\bin\Debug\net8.0-windows\WinFormsApp5.pdb
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.Form1.resources
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.csproj.GenerateResource.cache
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.AssemblyInfoInputs.cache
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.AssemblyInfo.cs
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.sourcelink.json
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.dll
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\refint\WinFormsApp5.dll
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.pdb
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.genruntimeconfig.cache
+C:\Users\MIX PC\Desktop\C#\PracticeWinFormPDF\WinFormsApp5\obj\Debug\net8.0-windows\ref\WinFormsApp5.dll

@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C61E63-9F2D-4773-8091-3B30A5095C51}|..\\ConsoleApp23\\ConsoleApp23.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FB7195-7BFE-42A8-83A3-AB1342B031B2}|..\\ConsoleApp22\\ConsoleApp22.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC85F975-2765-4FB1-A73F-829494971066}|..\\ConsoleApp21\\ConsoleApp21.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEC81FB-EB5B-4DB5-8D2C-3F6BC02B411B}|..\\ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A91BA-2BC2-495E-ADE1-58849F53C7C9}|..\\ConsoleApp19\\ConsoleApp19.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF7347E-8195-4F9B-B488-8EB2D567F8DB}|..\\ConsoleApp18\\ConsoleApp18.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68EF73-D305-423F-AE19-F822C2C1EF51}|..\\ConsoleApp17\\ConsoleApp17.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EB2BF8-1799-413D-B00F-79099885D957}|..\\ConsoleApp16\\ConsoleApp16.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1477B011-9E1D-446F-9CBB-796531F47DC4}|..\\ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B644ECFD-7C77-420C-869E-26649AF340F5}|..\\ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC866E48-161E-4551-A23E-77B04B1F9F5E}|..\\ConsoleApp12\\ConsoleApp12.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010796F3-129E-4392-9B9D-22D5B5F0A70F}|..\\ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68421D9-ECD2-4EDF-89ED-B0B089D99F4A}|..\\ConsoleApp11\\ConsoleApp11.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6120DE-4626-4D8C-8D48-4720CEEB3D6C}|..\\ConsoleApp13\\ConsoleApp13.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03973E2A-54AB-452F-91D7-26D00B038B02}|..\\ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BF41B5-01D5-4937-ACC7-CB35F0DEBFE3}|..\\ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140A1F09-2E2E-4740-8D4B-3705B0A3F71F}|..\\ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18D79F4-E259-4618-B022-5A8FDC966A79}|..\\ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E482BF12-5A7F-426E-8071-502C1E37306E}|..\\ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955761D6-7247-4347-979F-6388E2F28193}|..\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD2492B-F0C0-446B-A2E0-60D64A3D3978}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8988B76-3FA5-4FEB-A823-3801CD8588EB}|ConsoleApp1.csproj|c:\\users\\mix pc\\desktop\\c#\\practice6\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8988B76-3FA5-4FEB-A823-3801CD8588EB}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp23\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp23\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp23\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:23:54.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp22\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp22\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp22\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:14:21.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp21\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp21\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp21\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:12:32.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp20\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp20\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp20\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:10:10.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp19\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp19\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp19\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:09:11.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp18\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp18\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp18\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:07:55.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp17\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp17\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp17\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:07:00.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp16\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp16\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp16\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:06:27.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp15\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp15\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp15\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:05:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp14\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp14\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp14\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:04:35.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp13\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp13\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp13\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:02:02.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp12\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp12\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp12\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:00:15.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp11\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp11\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp11\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:56:40.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp9\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp9\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:53:14.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp8\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp8\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp8\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:48:56.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp7\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp7\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:46:02.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp6\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:42:19.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp5\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp5\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp5\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA3wEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:29:53.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:19:40.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:18:04.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:16:55.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MIX PC\\Desktop\\C#\\Practice6\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:10:25.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

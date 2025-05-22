@@ -1,0 +1,14 @@
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.exe
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.deps.json
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.runtimeconfig.json
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.dll
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\bin\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.dll
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\obj\Debug\net8.0\refint\ConsoleApp14.dll
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.pdb
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.genruntimeconfig.cache
+C:\Users\MIX PC\Desktop\C#\Practice8\ConsoleApp14\obj\Debug\net8.0\ref\ConsoleApp14.dll
